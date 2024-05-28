@@ -50,3 +50,8 @@ class RaceParticipant(
  */
 val RaceParticipant.progressFactor: Float
     get() = currentProgress / maxProgress.toFloat()
+
+
+    /////
+    /////
+    
